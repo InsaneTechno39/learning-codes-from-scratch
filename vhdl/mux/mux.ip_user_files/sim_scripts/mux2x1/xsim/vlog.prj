@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../bd/mux2x1/sim/mux2x1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

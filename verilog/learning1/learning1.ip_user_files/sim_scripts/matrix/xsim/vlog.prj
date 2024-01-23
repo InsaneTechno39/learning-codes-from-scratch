@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../bd/matrix/sim/matrix.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
